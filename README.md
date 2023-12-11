@@ -30,4 +30,4 @@ npm run build
 
 # Deployment Link
 
-https://main--beautiful-hotteok-e07f39.netlify.app/orders
+https://main--beautiful-hotteok-e07f39.netlify.app
